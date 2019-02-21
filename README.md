@@ -30,16 +30,16 @@
 - 有没有更好的方法，可以提高效率，快速完成呢？
 - 如果用脚本部署，只需要1分钟搞定，主要是编译redis时间，大大提高效率，快捷，快捷，快捷啊！
 - 第一步 编译redis
-- curl -s https://github.com/exitmsconfig/yun/tree/master/redis/install.sh | sh
+- curl -s https://github.com/exitmsconfig/yun/blob/master/redis/redis_port.sh | sh
 - 第二步 拷贝redis执行文件，修改配置文件，并启动
-- curl -s https://github.com/exitmsconfig/yun/tree/master/redis/redis_port.sh | sh -s  install 8001 8009
+- curl -s https://github.com/exitmsconfig/yun/blob/master/redis/redis_port.sh | sh -s  install 8001 8009
 - 完成！
 - ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/images/redis1.gif)
 - 批量关闭redis端口 8001到8009
-- curl -s https://git.oschina.net/aqztcom/kjyw/raw/master/redis/redis_port.sh  | sh -s  stop 8001 8009
+- curl -s https://github.com/exitmsconfig/yun/blob/master/redis/redis_port.sh  | sh -s  stop 8001 8009
 - ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/images/redis2.gif)
 - 批量启动redis端口 8001到8009
-- curl -s https://git.oschina.net/aqztcom/kjyw/raw/master/redis/redis_port.sh  | sh -s  start 8001 8009 
+- curl -s https://github.com/exitmsconfig/yun/blob/master/redis/redis_port.sh  | sh -s  start 8001 8009 
 - ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/images/redis3.gif)
 - 快捷运维还有其他运维经常使用的脚本，方便使用，提高效率！
 
