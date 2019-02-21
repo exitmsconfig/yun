@@ -34,13 +34,13 @@
 - 第二步 拷贝redis执行文件，修改配置文件，并启动
 - curl -s https://github.com/exitmsconfig/yun/tree/master/redis/redis_port.sh | sh -s  install 8001 8009
 - 完成！
-- ![image](https://github.com/exitmsconfig/yun/tree/master/images/redis1.gif)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/images/redis1.gif)
 - 批量关闭redis端口 8001到8009
 - curl -s https://git.oschina.net/aqztcom/kjyw/raw/master/redis/redis_port.sh  | sh -s  stop 8001 8009
-- ![image](https://github.com/exitmsconfig/yun/tree/master/images/redis2.gif)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/images/redis2.gif)
 - 批量启动redis端口 8001到8009
 - curl -s https://git.oschina.net/aqztcom/kjyw/raw/master/redis/redis_port.sh  | sh -s  start 8001 8009 
-- ![image](https://github.com/exitmsconfig/yun/tree/master/images/redis3.gif)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/images/redis3.gif)
 - 快捷运维还有其他运维经常使用的脚本，方便使用，提高效率！
 
 
