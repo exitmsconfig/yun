@@ -2,6 +2,8 @@
 
 #1.上传脚本到服务器
 - ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis4.jpg)
+'''
+'''
 #2.编译安装redis
 - ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis2.jpg)
 #3.安装完成
