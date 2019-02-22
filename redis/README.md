@@ -5,7 +5,7 @@
 ```
 ```
 #2.编译安装redis
-- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis2.jpg)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis7.jpg)
 ```
 ```
 #3.安装完成
