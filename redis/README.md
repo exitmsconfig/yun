@@ -1,7 +1,7 @@
 ### 某业务有redis部署需求，需要批量部署一组redis服务，端口从8001到8009 编译安装redis脚本
 
 #1.上传脚本到服务器
-- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis1.jpg)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis4.jpg)
 ```
 
 
