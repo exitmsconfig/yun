@@ -9,7 +9,7 @@
 ```
 ```
 #3.安装完成
-- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis3.jpg)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis6.jpg)
 ```
 ```
 #4.配置redis端口从8001到8009，输入开始端口和结束端口 配置redis脚本
