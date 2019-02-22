@@ -17,19 +17,19 @@
 ```
 ```
 ### 配置redis脚本
-- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis5.jpg)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis1.jpg)
 ```
 ```
 #5.执行完成，并启动
-- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis6.jpg)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis2.jpg)
 ```
 ```
 #6.检查启动情况
-- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis7.jpg)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis8.jpg)
 ```
 ```
 #7.停止redis服务，端口从8001到8009
-- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis8.jpg)
+- ![image](https://raw.githubusercontent.com/exitmsconfig/yun/master/redis/img/redis3.jpg)
 ```
 ```
 #8.重新启动redis服务，端口从8001到8009
